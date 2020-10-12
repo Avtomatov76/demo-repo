@@ -2,4 +2,4 @@
 
 Some description:
 
-Practice git exercise.
+Practice git exercise
